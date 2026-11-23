@@ -1,0 +1,107 @@
+INPUT LINES
+2
+101
+2
+2
+111
+6
+3
+1
+4
+700
+6
+
+ACTUAL PROGRAM OUTPUT
+Welcome to FreshCart - Mini Supermarket Billing System
+Session-only data. Prices are sample prices in EGP.
+
+1. Show products
+2. Set cart quantity
+3. View cart / member status
+4. Checkout
+5. Sales summary
+6. Exit
+Choose (1-6): 
+ID   Product                Price (EGP)  Stock
+101  Whole Milk             42.00        30
+102  Greek Yogurt           35.00        24
+103  Cheddar Cheese         85.00        20
+104  Sourdough Bread        55.00        18
+105  Butter Croissant       28.00        32
+106  Red Apples             65.00        40
+107  Fresh Bananas          38.00        35
+108  Tomatoes               22.00        45
+109  Orange Juice           48.00        25
+110  Mineral Water          12.00        60
+111  Basmati Rice           95.00        28
+112  Penne Pasta            32.00        36
+Product ID: New TOTAL quantity (0 removes): Cart updated.
+
+1. Show products
+2. Set cart quantity
+3. View cart / member status
+4. Checkout
+5. Sales summary
+6. Exit
+Choose (1-6): 
+ID   Product                Price (EGP)  Stock
+101  Whole Milk             42.00        30
+102  Greek Yogurt           35.00        24
+103  Cheddar Cheese         85.00        20
+104  Sourdough Bread        55.00        18
+105  Butter Croissant       28.00        32
+106  Red Apples             65.00        40
+107  Fresh Bananas          38.00        35
+108  Tomatoes               22.00        45
+109  Orange Juice           48.00        25
+110  Mineral Water          12.00        60
+111  Basmati Rice           95.00        28
+112  Penne Pasta            32.00        36
+Product ID: New TOTAL quantity (0 removes): Cart updated.
+
+1. Show products
+2. Set cart quantity
+3. View cart / member status
+4. Checkout
+5. Sales summary
+6. Exit
+Choose (1-6): Registered member? (1=yes, 0=no): Whole Milk x 2 = EGP 84.00
+Basmati Rice x 6 = EGP 570.00
+Subtotal: EGP 654.00 | Discount: EGP 32.70 | Total: EGP 621.30
+Member discount: 5% applied
+
+1. Show products
+2. Set cart quantity
+3. View cart / member status
+4. Checkout
+5. Sales summary
+6. Exit
+Choose (1-6): Whole Milk x 2 = EGP 84.00
+Basmati Rice x 6 = EGP 570.00
+Subtotal: EGP 654.00 | Discount: EGP 32.70 | Total: EGP 621.30
+Member discount: 5% applied
+Cash received (EGP): 
+FRESHCART | MINI SUPERMARKET
+Receipt #0001
+All amounts in EGP
+----------------------------------------
+Whole Milk
+  2 x 42.00 = 84.00
+Basmati Rice
+  6 x 95.00 = 570.00
+----------------------------------------
+Subtotal:        654.00
+Discount (5%):  32.70
+TOTAL:           621.30
+Cash received:   700.00
+Change:          78.70
+Member discount: 5% applied
+Thank you. Have a fresh day!
+
+1. Show products
+2. Set cart quantity
+3. View cart / member status
+4. Checkout
+5. Sales summary
+6. Exit
+Choose (1-6): Goodbye! Session data is now cleared.

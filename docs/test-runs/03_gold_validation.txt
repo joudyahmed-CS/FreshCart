@@ -1,0 +1,101 @@
+INPUT LINES
+hello
+9
+2
+111
+-2
+29
+11
+3
+1
+4
+900
+1000.001
+NaN
+1000
+5
+6
+
+ACTUAL PROGRAM OUTPUT
+Welcome to FreshCart - Mini Supermarket Billing System
+Session-only data. Prices are sample prices in EGP.
+
+1. Show products
+2. Set cart quantity
+3. View cart / member status
+4. Checkout
+5. Sales summary
+6. Exit
+Choose (1-6): Invalid input. Enter a whole number from 1 to 6.
+Choose (1-6): Invalid input. Enter a whole number from 1 to 6.
+Choose (1-6): 
+ID   Product                Price (EGP)  Stock
+101  Whole Milk             42.00        30
+102  Greek Yogurt           35.00        24
+103  Cheddar Cheese         85.00        20
+104  Sourdough Bread        55.00        18
+105  Butter Croissant       28.00        32
+106  Red Apples             65.00        40
+107  Fresh Bananas          38.00        35
+108  Tomatoes               22.00        45
+109  Orange Juice           48.00        25
+110  Mineral Water          12.00        60
+111  Basmati Rice           95.00        28
+112  Penne Pasta            32.00        36
+Product ID: New TOTAL quantity (0 removes): Invalid input. Enter a whole number from 0 to 28.
+New TOTAL quantity (0 removes): Invalid input. Enter a whole number from 0 to 28.
+New TOTAL quantity (0 removes): Cart updated.
+
+1. Show products
+2. Set cart quantity
+3. View cart / member status
+4. Checkout
+5. Sales summary
+6. Exit
+Choose (1-6): Registered member? (1=yes, 0=no): Basmati Rice x 11 = EGP 1045.00
+Subtotal: EGP 1045.00 | Discount: EGP 104.50 | Total: EGP 940.50
+Gold member discount: 10% applied
+
+1. Show products
+2. Set cart quantity
+3. View cart / member status
+4. Checkout
+5. Sales summary
+6. Exit
+Choose (1-6): Basmati Rice x 11 = EGP 1045.00
+Subtotal: EGP 1045.00 | Discount: EGP 104.50 | Total: EGP 940.50
+Gold member discount: 10% applied
+Cash received (EGP): Invalid cash. Enter 940.50 to 1000000.00, with at most two decimal places.
+Cash received (EGP): Invalid cash. Enter 940.50 to 1000000.00, with at most two decimal places.
+Cash received (EGP): Invalid cash. Enter 940.50 to 1000000.00, with at most two decimal places.
+Cash received (EGP): 
+FRESHCART | MINI SUPERMARKET
+Receipt #0001
+All amounts in EGP
+----------------------------------------
+Basmati Rice
+  11 x 95.00 = 1045.00
+----------------------------------------
+Subtotal:        1045.00
+Discount (10%):  104.50
+TOTAL:           940.50
+Cash received:   1000.00
+Change:          59.50
+Gold member discount: 10% applied
+Thank you. Have a fresh day!
+
+1. Show products
+2. Set cart quantity
+3. View cart / member status
+4. Checkout
+5. Sales summary
+6. Exit
+Choose (1-6): Completed sales: 1 | Revenue: EGP 940.50
+
+1. Show products
+2. Set cart quantity
+3. View cart / member status
+4. Checkout
+5. Sales summary
+6. Exit
+Choose (1-6): Goodbye! Session data is now cleared.

@@ -1,0 +1,75 @@
+INPUT LINES
+2
+107
+2
+4
+76
+5
+6
+
+ACTUAL PROGRAM OUTPUT
+Welcome to FreshCart - Mini Supermarket Billing System
+Session-only data. Prices are sample prices in EGP.
+
+1. Show products
+2. Set cart quantity
+3. View cart / member status
+4. Checkout
+5. Sales summary
+6. Exit
+Choose (1-6): 
+ID   Product                Price (EGP)  Stock
+101  Whole Milk             42.00        30
+102  Greek Yogurt           35.00        24
+103  Cheddar Cheese         85.00        20
+104  Sourdough Bread        55.00        18
+105  Butter Croissant       28.00        32
+106  Red Apples             65.00        40
+107  Fresh Bananas          38.00        35
+108  Tomatoes               22.00        45
+109  Orange Juice           48.00        25
+110  Mineral Water          12.00        60
+111  Basmati Rice           95.00        28
+112  Penne Pasta            32.00        36
+Product ID: New TOTAL quantity (0 removes): Cart updated.
+
+1. Show products
+2. Set cart quantity
+3. View cart / member status
+4. Checkout
+5. Sales summary
+6. Exit
+Choose (1-6): Fresh Bananas x 2 = EGP 76.00
+Subtotal: EGP 76.00 | Discount: EGP 0.00 | Total: EGP 76.00
+Standard pricing - no member discount
+Cash received (EGP): 
+FRESHCART | MINI SUPERMARKET
+Receipt #0001
+All amounts in EGP
+----------------------------------------
+Fresh Bananas
+  2 x 38.00 = 76.00
+----------------------------------------
+Subtotal:        76.00
+Discount (0%):  0.00
+TOTAL:           76.00
+Cash received:   76.00
+Change:          0.00
+Standard pricing - no member discount
+Thank you. Have a fresh day!
+
+1. Show products
+2. Set cart quantity
+3. View cart / member status
+4. Checkout
+5. Sales summary
+6. Exit
+Choose (1-6): Completed sales: 1 | Revenue: EGP 76.00
+
+1. Show products
+2. Set cart quantity
+3. View cart / member status
+4. Checkout
+5. Sales summary
+6. Exit
+Choose (1-6): Goodbye! Session data is now cleared.
